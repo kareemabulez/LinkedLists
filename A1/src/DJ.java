@@ -112,6 +112,8 @@ public class DJ extends JFrame implements Runnable {
                     forward = !forward;
             }
         });
+
+       // performTests();
     }
 
     /** Play the song */
